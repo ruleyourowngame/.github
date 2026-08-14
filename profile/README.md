@@ -3,7 +3,6 @@
 </p>
 
   # 
-The Github Organization for ArchMC, ~~one of~~ _the_ biggest cracked server in North America. Learn more about us [here](https://www.arch.lol/about-us).
+The Github Organization for ArchMC, one of the biggest servers in North America. Learn more about us [here](https://www.arch.mc/).
 <br>
 <br>
-You may eventually have some public repositories in the future, but for now there is not much to see here. Dev blog coming soon!
